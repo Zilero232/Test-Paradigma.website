@@ -1,0 +1,38 @@
+{
+  "name": "gulp-start",
+  "version": "1.0.0",
+  "description": "start gulp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandr Artemev",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "lightgallery": "^2.3.0",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.45.2"
+  },
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "del": "^5.1.0",
+    "fancybox": "^3.0.1",
+    "gulp-autoprefixer": "^7.0.1",
+    "imask": "^6.4.3",
+    "jquery": "^3.6.0",
+    "jquery-custom-select": "^1.6.4",
+    "jquery-modal": "^0.9.2",
+    "magnific-popup": "^1.1.0",
+    "simplebar": "^5.3.6",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^7.4.1"
+  }
+}
